@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I recently graduated App Academy and have learned so much in a short time. I have several projects (solo and collaborative) that show a little bit of what I can do! I love to create fun, colorful sites that are full of personality. I'm currently updating these sites to make them more intuitive, stylish, and steamlined. I want everything I touch to be the absolute best it can be, and I'm never 100% satisfied. Progress, not perfection! 
+I recently graduated App Academy and have learned so much in a short time. I have several projects (solo and collaborative) that show a little bit of what I can do! I love to create fun, colorful sites that are full of personality. I'm currently updating these sites to make them more intuitive, stylish, and streamlined. I want everything I touch to be the absolute best it can be, and I'm never 100% satisfied. Progress, not perfection! 
 
 I'm looking forward to growing and learning for the rest of my life, and I hope you all enjoy or are inspired by what you see! Happy coding!
 
