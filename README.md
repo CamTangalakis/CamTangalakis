@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I recently graduated App Academy and have learned so much in a short time. I have several projects (solo and collaborative) that show a little bit of what I can do! I love to create fun, colorful sites that are full of personality. I'm currently updating these sites to make them more intuitive, stylish, and streamlined. I want everything I touch to be the absolute best it can be, and I'm never 100% satisfied. Progress, not perfection! 
+I graduated from App Academy in 2022, and since then have been incredibly lucky to have found my way to Twitch. I worked there as an apprentice before being hired on full time, and was recently laid off during the last round of cuts. I leanred so much in my time at Twitch, and look forward to continue learning and becoming the best software engineer I can be. I have several old projects (solo and collaborative) in this repo that show a little bit of what I can do! I love to create fun, colorful sites that are full of personality. I'm currently updating these sites to make them more intuitive, stylish, and streamlined. I want everything I touch to be the absolute best it can be, and I'm never 100% satisfied. Progress, not perfection! 
 
 I'm looking forward to growing and learning for the rest of my life, and I hope you all enjoy or are inspired by what you see! Happy coding!
 
